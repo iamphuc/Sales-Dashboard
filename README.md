@@ -23,4 +23,4 @@ Since this is a hypothetical situation of a fashion company in Australia, there 
 5. I learned that formating is also very important. Details such as coloring, alignment, presentation can help to communicate information effectively.
 
 ## Reference
-The dataset was downloaded from MyOnlineTrainingHub.com
+The dataset and detailed instruction on how to build this dashboard were obtained from MyOnlineTrainingHub.com
